@@ -24,7 +24,7 @@
     </modules>
 
     <name>leyou</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo poject for Spring Boot</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
