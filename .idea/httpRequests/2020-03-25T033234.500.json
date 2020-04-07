@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-03-25T07:32:34.274+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Missing URI template variable 'cid' for method parameter of type Long",
+  "path": "/spec/groups"
+}
